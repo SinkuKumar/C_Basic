@@ -49,6 +49,6 @@ The reverse of XML is LMX
 ### 5. Write a C program to compute the perimeter and area of rectangle with a height of 7 inches and width of 5 inches.
 #### Expected Output:
 ```c
-Perimeter of rectangle = 24inches
+Perimeter of rectangle = 24 inches
 Area of rectangle = 35 square inches
 ```
