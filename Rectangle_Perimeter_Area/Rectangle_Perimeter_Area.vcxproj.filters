@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Rectangle_Perimeter_Area.cpp">
+    <ClCompile Include="Rectangle_Perimeter_Area.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
