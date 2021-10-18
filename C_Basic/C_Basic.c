@@ -1,5 +1,5 @@
 /*
-*	C_Basic.c : C program to use title of the repository
+*	C_Basic.c : C program to print.
 */
 
 #include<stdio.h>
