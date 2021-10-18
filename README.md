@@ -36,3 +36,9 @@ We are using C18!
   ##      ##
     ######
 ```
+### 4. Write a C program to print the following letters in a reverse way.
+#### Test Characters 'X', 'M', 'L'
+#### Expected Output:
+```c
+The reverse of XML is LMX
+```
