@@ -52,3 +52,17 @@ The reverse of XML is LMX
 Perimeter of rectangle = 24 inches
 Area of rectangle = 35 square inches
 ```
+
+### 6. Write a C program to display multiple variable.
+#### Sample Variables:
+a+c, x+c, dx+x, ((int) dx) + ax, a+x, s+b, ax+b, s+c, ax+c, ax+ux
+#### Declararion:
+```c
+int a = 125, b = 12345;
+long ax = 12345678990;
+short s = 4043
+float x = 2.123459;
+double dx = 1.1415927;
+char c = 'W';
+unsigned long ux = 2541568790;
+```
