@@ -3,7 +3,7 @@
 This repository contains C programs for practice purpose <br>
 A list of question can be found here:<br>https://www.w3resource.com/c-programming-exercises/basic-declarations-and-expressions/index.php
 
-### 1. Write a C program to print your name, date of birth. and mobile number. Go to the editor
+### 1. Write a C program to print your name, date of birth. and mobile number.
 #### Expected Output:
 ```c
 Name   : Alexandra Abramov
@@ -53,7 +53,14 @@ Perimeter of rectangle = 24 inches
 Area of rectangle = 35 square inches
 ```
 
-### 6. Write a C program to display multiple variable.
+### 6. Write a C program to compute the perimeter and area of a circle with a given radius.
+#### Expected Output:
+```c
+Perimeter of the Circle = 37.680000 inches
+Area of the Circle = 113.040001 square inches
+```
+
+### 7. Write a C program to display multiple variable.
 #### Sample Variables:
 a+c, x+c, dx+x, ((int) dx) + ax, a+x, s+b, ax+b, s+c, ax+c, ax+ux
 #### Declararion:
