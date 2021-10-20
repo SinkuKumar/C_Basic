@@ -3,7 +3,7 @@
 
 *	Expected Output:
 	Name  : Sinku Kumar
-	DOB	  : Nov 22, 1997
+	DOB   : Nov 22, 1997
 	Mobile: 91-9876543210
 */
 

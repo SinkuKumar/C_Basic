@@ -10,12 +10,16 @@ Name   : Alexandra Abramov
 DOB    : July 14, 1975
 Mobile : 99-9999999999
 ```
+[Solution]()
+
 
 ### 2. Write a C program to get the C version you are using.
 #### Expected Output:
 ```c
 We are using C18!
 ```
+#### Solution:
+
 
 ### 3. Write a C program to print a block F using hash(#), where the F has a height of six characters and width of five and four characters. And also to print a big 'C'.
 #### Expected Output:
