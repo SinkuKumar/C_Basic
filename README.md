@@ -1,7 +1,8 @@
 # C Basic Declarations and Expressions
 ## C Basic Declarations and Expressions [150 Exercises with solution]
-This repository contains C programs for practice purpose <br>
+This repository contains C programs for practice purpose, including my own problems and solution.<br>
 A list of question can be found here:<br>https://www.w3resource.com/c-programming-exercises/basic-declarations-and-expressions/index.php
+My own problems can be found after exercises.
 
 ### 1. Write a C program to print your name, date of birth. and mobile number.
 #### Expected Output:
@@ -72,4 +73,21 @@ float x = 2.123459;
 double dx = 1.1415927;
 char c = 'W';
 unsigned long ux = 2541568790;
+```
+
+## My own problems and solutions.
+Some message...
+
+### Write a C program to compute radius of a circle with given circumference or area.
+#### Expected Output:
+```c
+Enter a given character to make a choice (a:area, c: circumference): a
+Enter the area of the circle:
+Radius of circle is:
+Circumference of Circle is:
+
+Enter a given character to make a choice (a:area, c: circumference): c
+Enter the circumference of the circle:
+Radius of circle is:
+Area of Circle is:
 ```
