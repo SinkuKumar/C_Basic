@@ -91,3 +91,14 @@ Years: 3
 Weeks: 33
 Days: 35
 ```
+
+### 9. Write a C program that accepts two integers from the user and calculate the sum of the two integers.
+#### Test Data:
+```c
+Input the first integer: 25
+Input the second integer: 38
+```
+#### Expected Output:
+```c
+Sum of the above two integers = 63
+```

@@ -26,6 +26,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Circle_Perimeter_Area", "Ci
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Days_Conversion", "Days_Conversion\Days_Conversion.vcxproj", "{60CB4A2D-BA02-4CE1-960C-4B6C29F63310}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Integer_Sum", "Integer_Sum\Integer_Sum.vcxproj", "{AED148D3-91A2-40BB-ADB7-D25900C6486B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -106,6 +108,14 @@ Global
 		{60CB4A2D-BA02-4CE1-960C-4B6C29F63310}.Release|x64.Build.0 = Release|x64
 		{60CB4A2D-BA02-4CE1-960C-4B6C29F63310}.Release|x86.ActiveCfg = Release|Win32
 		{60CB4A2D-BA02-4CE1-960C-4B6C29F63310}.Release|x86.Build.0 = Release|Win32
+		{AED148D3-91A2-40BB-ADB7-D25900C6486B}.Debug|x64.ActiveCfg = Debug|x64
+		{AED148D3-91A2-40BB-ADB7-D25900C6486B}.Debug|x64.Build.0 = Debug|x64
+		{AED148D3-91A2-40BB-ADB7-D25900C6486B}.Debug|x86.ActiveCfg = Debug|Win32
+		{AED148D3-91A2-40BB-ADB7-D25900C6486B}.Debug|x86.Build.0 = Debug|Win32
+		{AED148D3-91A2-40BB-ADB7-D25900C6486B}.Release|x64.ActiveCfg = Release|x64
+		{AED148D3-91A2-40BB-ADB7-D25900C6486B}.Release|x64.Build.0 = Release|x64
+		{AED148D3-91A2-40BB-ADB7-D25900C6486B}.Release|x86.ActiveCfg = Release|Win32
+		{AED148D3-91A2-40BB-ADB7-D25900C6486B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
