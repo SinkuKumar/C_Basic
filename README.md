@@ -102,3 +102,14 @@ Input the second integer: 38
 ```c
 Sum of the above two integers = 63
 ```
+
+### 10. Write a C program that accepts two integers from the user and calculate the product of the two integers.
+#### Test Data :
+```c
+Input the first integer: 25
+Input the second integer: 15
+```
+#### Expected Output:
+```c
+Product of the above two integers = 375
+```
