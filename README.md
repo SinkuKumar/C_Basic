@@ -40,7 +40,9 @@ We are using C18!
 ```
 
 ### 4. Write a C program to print the following letters in a reverse way.
-#### Test Characters 'X', 'M', 'L'
+```c 
+//Test Characters 'X', 'M', 'L'
+```
 #### Expected Output:
 ```c
 The reverse of XML is LMX
@@ -62,8 +64,11 @@ Area of the Circle = 113.040001 square inches
 
 ### 7. Write a C program to display multiple variable.
 #### Sample Variables:
+```c
 a+c, x+c, dx+x, ((int) dx) + ax, a+x, s+b, ax+b, s+c, ax+c, ax+ux
-#### Declararion:
+```
+
+#### Declaration:
 ```c
 int a = 125, b = 12345;
 long ax = 12345678990;
@@ -72,4 +77,17 @@ float x = 2.123459;
 double dx = 1.1415927;
 char c = 'W';
 unsigned long ux = 2541568790;
+```
+
+### 8. Write a C program to convert specified days into years, weeks and days.
+#### Note: Ignore leap year.
+#### Test Data :
+```c 
+//Number of days : 1329
+```
+#### Expected Output :
+```c
+Years: 3
+Weeks: 33
+Days: 35
 ```
