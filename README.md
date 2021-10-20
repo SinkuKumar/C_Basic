@@ -42,6 +42,7 @@ We are using C18!
   ##      ##
     ######
 ```
+[Solution: Big_Characters](https://github.com/SinkuKumar/C_Basic/blob/master/Big_Characters/Big_Characters.c)
 
 ### 4. Write a C program to print the following letters in a reverse way.
 ```c 
@@ -51,6 +52,7 @@ We are using C18!
 ```c
 The reverse of XML is LMX
 ```
+[Solution: Reverse_Characters](https://github.com/SinkuKumar/C_Basic/blob/master/Reverse_Characters/Reverse_Characters.c)
 
 ### 5. Write a C program to compute the perimeter and area of rectangle with a height of 7 inches and width of 5 inches.
 #### Expected Output:
@@ -58,6 +60,7 @@ The reverse of XML is LMX
 Perimeter of rectangle = 24 inches
 Area of rectangle = 35 square inches
 ```
+[Solution: Rectangle_Perimeter_Area](https://github.com/SinkuKumar/C_Basic/blob/master/Rectangle_Perimeter_Area/Rectangle_Perimeter_Area.c)
 
 ### 6. Write a C program to compute the perimeter and area of a circle with a given radius.
 #### Expected Output:
@@ -65,13 +68,13 @@ Area of rectangle = 35 square inches
 Perimeter of the Circle = 37.680000 inches
 Area of the Circle = 113.040001 square inches
 ```
+[Solution: Circle_Perimeter_Area](https://github.com/SinkuKumar/C_Basic/blob/master/Circle_Perimeter_Area/Circle_Perimeter_Area.c)
 
 ### 7. Write a C program to display multiple variable.
 #### Sample Variables:
 ```c
 a+c, x+c, dx+x, ((int) dx) + ax, a+x, s+b, ax+b, s+c, ax+c, ax+ux
 ```
-
 #### Declaration:
 ```c
 int a = 125, b = 12345;
@@ -82,6 +85,7 @@ double dx = 1.1415927;
 char c = 'W';
 unsigned long ux = 2541568790;
 ```
+[Solution: Multiple_Variables](https://github.com/SinkuKumar/C_Basic/blob/master/Multiple_Variables/Multiple_Variables.c)
 
 ### 8. Write a C program to convert specified days into years, weeks and days.
 #### Note: Ignore leap year.
@@ -95,6 +99,7 @@ Years: 3
 Weeks: 33
 Days: 35
 ```
+[Solution: Days_Conversion](https://github.com/SinkuKumar/C_Basic/blob/master/Days_Conversion/Days_Conversion.c)
 
 ### 9. Write a C program that accepts two integers from the user and calculate the sum of the two integers.
 #### Test Data:
@@ -106,6 +111,7 @@ Input the second integer: 38
 ```c
 Sum of the above two integers = 63
 ```
+[Solution: Integer_Sum](https://github.com/SinkuKumar/C_Basic/blob/master/Integer_Sum/Integer_Sum.c)
 
 ### 10. Write a C program that accepts two integers from the user and calculate the product of the two integers.
 #### Test Data :
@@ -117,3 +123,4 @@ Input the second integer: 15
 ```c
 Product of the above two integers = 375
 ```
+[Solution: Integer_Product](https://github.com/SinkuKumar/C_Basic/blob/master/Integer_Product/Integer_Product.c)
